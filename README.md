@@ -1,5 +1,5 @@
 # My firt Github repo
 
-Hello World! I am a robot!
+Hello World! 
 
-cool stuff...
+cool stuff
