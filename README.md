@@ -9,3 +9,8 @@ more cool stuff
 
 
 im in vs code now.
+
+
+HELLO!!!!
+
+this is nuts
